@@ -31,3 +31,12 @@ Utiliza las siguientes tecnologías y herramientas:
 **Git**: Se utiliza Git como sistema de control de versiones para el desarrollo colaborativo del proyecto.
 **IDE**: IntelliJ IDEA.
 **Trello**: Herramienta visual que permite a los equipos gestionar cualquier tipo de proyecto y flujo de trabajo.Indispensable para aplicacion de metodologías ágiles.
+
+# Cambios 
+![Cambios](https://github.com/DavidParrap12/Challenger-conversor-de-moneda/assets/98554197/f3a1784f-c323-431c-8cf0-2678b9e877f6)
+
+#Conversiones posibles
+![Conversiones posibles](https://github.com/DavidParrap12/Challenger-conversor-de-moneda/assets/98554197/ac00505a-740f-4c21-8109-7cb2ac56f059)
+
+#Resultados
+![Resultado](https://github.com/DavidParrap12/Challenger-conversor-de-moneda/assets/98554197/08cc5560-bb5c-42e9-9cce-e6e8585b30f3)
